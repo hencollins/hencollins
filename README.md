@@ -4,11 +4,21 @@ I'm Henry, a senior at UC Berkeley
 
 Mostly programming in Python for ML/AI class projects, but also doing some fun projects on the side.
 
-Trying to organize all my code here which is taking longer than I thought — more is on the way!
+Trying to organize all my code here (which is taking longer than I thought) — more is on the way!
 
-## Tools and Tech
+## Tools and tech
 
- - #data sci#: 
+ - Python, pytorch, scikit-learn, pandas, SQL for data sci
+ - Canva, Adobe Suite for marketing
+ - Max/MSP for music/sound programming
+ - Java for idk what 🤷
+
+## A bit about me
+
+ - 🌉 from the Bay
+ - 🎓 about to graduate! (data sci + digital media double major)
+ - 🥤 reality tv + diet soda addict
+ - 🕹️ into gaming (Zelda, Skyrim, and Minecraft are my favorites)
 
 <!--
 **hencollins/hencollins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
