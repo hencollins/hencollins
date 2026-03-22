@@ -2,9 +2,13 @@
 
 I'm Henry, a senior at UC Berkeley
 
+Mostly programming in Python for ML/AI class projects, but also doing some fun projects on the side.
+
+Trying to organize all my code here which is taking longer than I thought — more is on the way!
+
 ## Tools and Tech
 
- - barf
+ - #data sci#: 
 
 <!--
 **hencollins/hencollins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
