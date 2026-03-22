@@ -17,7 +17,7 @@ Trying to organize all my code here (which is taking longer than I thought) — 
 
  - 🌉 from the Bay
  - 🎓 about to graduate! (data sci + digital media double major)
- - 🥤 reality tv + diet soda addict
+ - 🥤 addicted to reality tv + diet soda
  - 🕹️ into gaming (Zelda, Skyrim, and Minecraft are my favorites)
 
 <!--
