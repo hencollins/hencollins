@@ -4,7 +4,7 @@ I'm Henry, a senior at UC Berkeley
 
 Mostly programming in Python for ML/AI class projects, but also doing some fun projects on the side.
 
-Trying to organize all my code here (which is taking longer than I thought) — more is on the way!
+Trying to organize all my code here — more is on the way!
 
 ## Tools and tech
 
