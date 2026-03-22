@@ -9,7 +9,7 @@ Trying to organize all my code here — more is on the way!
 ## Tools and tech
 
  - Python, pytorch, scikit-learn, pandas, SQL for data sci
- - Canva, Adobe Suite for marketing
+ - Canva, Adobe Suite, Mailchimp, Klaviyo for marketing
  - Max/MSP for music/sound programming
  - Java for idk what 🤷
 
