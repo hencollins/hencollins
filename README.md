@@ -18,7 +18,6 @@ Trying to organize all my code here — more is on the way!
  - 🌉 from the Bay
  - 🎓 about to graduate! (data sci + digital media double major)
  - 🥤 addicted to reality tv + diet soda
- - 🕹️ into gaming (Zelda, Skyrim, and Minecraft are my favorites)
 
 <!--
 **hencollins/hencollins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
