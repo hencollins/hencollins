@@ -1,8 +1,6 @@
 ## Hi there 👋
 
-I'm Henry, a senior at UC Berkeley
-
-Mostly programming in Python for ML/AI class projects, but also doing some fun data projects on the side.
+I'm Henry, a recent UC Berkeley grad and Data Analyst I at Expedia Group working on agentic AI experiences.
 
 Trying to organize all my code here — more is on the way!
 
